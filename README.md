@@ -1,4 +1,4 @@
-# VariableBitQuantization
+# Effect of Variable Bit Quantization on Social Bias within LLMs
 
 Here are the paper and script for the variable bit quantization research. 
 
